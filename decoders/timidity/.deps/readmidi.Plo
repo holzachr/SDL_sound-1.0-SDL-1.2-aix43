@@ -1,0 +1,126 @@
+readmidi.lo: readmidi.c
+readmidi.lo: ../../config.h
+readmidi.lo: /usr/include/stdio.h
+readmidi.lo: /usr/include/standards.h
+readmidi.lo: /usr/include/va_list.h
+readmidi.lo: /usr/include/sys/types.h
+readmidi.lo: /usr/include/sys/inttypes.h
+readmidi.lo: /usr/include/sys/m_types.h
+readmidi.lo: /usr/include/sys/vm_types.h
+readmidi.lo: /usr/include/sys/limits.h
+readmidi.lo: /usr/include/float.h
+readmidi.lo: /usr/include/stdlib.h
+readmidi.lo: /usr/include/sys/wait.h
+readmidi.lo: /usr/include/sys/resource.h
+readmidi.lo: /usr/include/sys/time.h
+readmidi.lo: /usr/include/sys/signal.h
+readmidi.lo: /usr/include/sys/context.h
+readmidi.lo: /usr/include/sys/m_param.h
+readmidi.lo: /usr/include/sys/mstsave.h
+readmidi.lo: /usr/include/sys/m_signal.h
+readmidi.lo: /usr/include/sys/localedef.h
+readmidi.lo: /usr/include/sys/lc_core.h
+readmidi.lo: /usr/include/locale.h
+readmidi.lo: /usr/include/sys/localedef31.h
+readmidi.lo: /usr/include/string.h
+readmidi.lo: ../../SDL_sound.h
+readmidi.lo: /opt/SDL/include/SDL/SDL.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_main.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_config.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_platform.h
+readmidi.lo: /usr/include/stddef.h
+readmidi.lo: /usr/include/stdarg.h
+readmidi.lo: /usr/include/strings.h
+readmidi.lo: /usr/include/inttypes.h
+readmidi.lo: /usr/include/ctype.h
+readmidi.lo: /opt/SDL/include/SDL/begin_code.h
+readmidi.lo: /opt/SDL/include/SDL/close_code.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_audio.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_error.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_endian.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_mutex.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_thread.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_rwops.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_events.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_active.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_keysym.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_mouse.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_video.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_joystick.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_quit.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_loadso.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_timer.h
+readmidi.lo: /opt/SDL/include/SDL/SDL_version.h
+readmidi.lo: ../../SDL_sound_internal.h
+readmidi.lo: /usr/include/assert.h
+readmidi.lo: timidity.h
+readmidi.lo: common.h
+readmidi.lo: instrum.h
+readmidi.lo: playmidi.h
+readmidi.c:
+../../config.h:
+/usr/include/stdio.h:
+/usr/include/standards.h:
+/usr/include/va_list.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/string.h:
+../../SDL_sound.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:
+../../SDL_sound_internal.h:
+/usr/include/assert.h:
+timidity.h:
+common.h:
+instrum.h:
+playmidi.h:

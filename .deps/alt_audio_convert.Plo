@@ -1,0 +1,4 @@
+alt_audio_convert.lo: alt_audio_convert.c
+alt_audio_convert.lo: ./config.h
+alt_audio_convert.c:
+./config.h:

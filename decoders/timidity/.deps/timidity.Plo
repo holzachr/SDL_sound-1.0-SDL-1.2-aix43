@@ -1,0 +1,136 @@
+timidity.lo: timidity.c
+timidity.lo: ../../config.h
+timidity.lo: /usr/include/stdio.h
+timidity.lo: /usr/include/standards.h
+timidity.lo: /usr/include/va_list.h
+timidity.lo: /usr/include/sys/types.h
+timidity.lo: /usr/include/sys/inttypes.h
+timidity.lo: /usr/include/sys/m_types.h
+timidity.lo: /usr/include/sys/vm_types.h
+timidity.lo: /usr/include/sys/limits.h
+timidity.lo: /usr/include/float.h
+timidity.lo: /usr/include/stdlib.h
+timidity.lo: /usr/include/sys/wait.h
+timidity.lo: /usr/include/sys/resource.h
+timidity.lo: /usr/include/sys/time.h
+timidity.lo: /usr/include/sys/signal.h
+timidity.lo: /usr/include/sys/context.h
+timidity.lo: /usr/include/sys/m_param.h
+timidity.lo: /usr/include/sys/mstsave.h
+timidity.lo: /usr/include/sys/m_signal.h
+timidity.lo: /usr/include/sys/localedef.h
+timidity.lo: /usr/include/sys/lc_core.h
+timidity.lo: /usr/include/locale.h
+timidity.lo: /usr/include/sys/localedef31.h
+timidity.lo: /usr/include/string.h
+timidity.lo: ../../SDL_sound.h
+timidity.lo: /opt/SDL/include/SDL/SDL.h
+timidity.lo: /opt/SDL/include/SDL/SDL_main.h
+timidity.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+timidity.lo: /opt/SDL/include/SDL/SDL_config.h
+timidity.lo: /opt/SDL/include/SDL/SDL_platform.h
+timidity.lo: /usr/include/stddef.h
+timidity.lo: /usr/include/stdarg.h
+timidity.lo: /usr/include/strings.h
+timidity.lo: /usr/include/inttypes.h
+timidity.lo: /usr/include/ctype.h
+timidity.lo: /opt/SDL/include/SDL/begin_code.h
+timidity.lo: /opt/SDL/include/SDL/close_code.h
+timidity.lo: /opt/SDL/include/SDL/SDL_audio.h
+timidity.lo: /opt/SDL/include/SDL/SDL_error.h
+timidity.lo: /opt/SDL/include/SDL/SDL_endian.h
+timidity.lo: /opt/SDL/include/SDL/SDL_mutex.h
+timidity.lo: /opt/SDL/include/SDL/SDL_thread.h
+timidity.lo: /opt/SDL/include/SDL/SDL_rwops.h
+timidity.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+timidity.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+timidity.lo: /opt/SDL/include/SDL/SDL_events.h
+timidity.lo: /opt/SDL/include/SDL/SDL_active.h
+timidity.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+timidity.lo: /opt/SDL/include/SDL/SDL_keysym.h
+timidity.lo: /opt/SDL/include/SDL/SDL_mouse.h
+timidity.lo: /opt/SDL/include/SDL/SDL_video.h
+timidity.lo: /opt/SDL/include/SDL/SDL_joystick.h
+timidity.lo: /opt/SDL/include/SDL/SDL_quit.h
+timidity.lo: /opt/SDL/include/SDL/SDL_loadso.h
+timidity.lo: /opt/SDL/include/SDL/SDL_timer.h
+timidity.lo: /opt/SDL/include/SDL/SDL_version.h
+timidity.lo: ../../SDL_sound_internal.h
+timidity.lo: /usr/include/assert.h
+timidity.lo: timidity.h
+timidity.lo: options.h
+timidity.lo: common.h
+timidity.lo: instrum.h
+timidity.lo: playmidi.h
+timidity.lo: readmidi.h
+timidity.lo: output.h
+timidity.lo: tables.h
+timidity.lo: /usr/include/math.h
+timidity.c:
+../../config.h:
+/usr/include/stdio.h:
+/usr/include/standards.h:
+/usr/include/va_list.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/string.h:
+../../SDL_sound.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:
+../../SDL_sound_internal.h:
+/usr/include/assert.h:
+timidity.h:
+options.h:
+common.h:
+instrum.h:
+playmidi.h:
+readmidi.h:
+output.h:
+tables.h:
+/usr/include/math.h:

@@ -1,0 +1,4 @@
+ogg.lo: ogg.c
+ogg.lo: ../config.h
+ogg.c:
+../config.h:

@@ -1,0 +1,136 @@
+mix.lo: mix.c
+mix.lo: ../../config.h
+mix.lo: /usr/include/math.h
+mix.lo: /usr/include/standards.h
+mix.lo: /usr/include/stdlib.h
+mix.lo: /usr/include/sys/wait.h
+mix.lo: /usr/include/sys/types.h
+mix.lo: /usr/include/sys/inttypes.h
+mix.lo: /usr/include/sys/m_types.h
+mix.lo: /usr/include/sys/vm_types.h
+mix.lo: /usr/include/sys/resource.h
+mix.lo: /usr/include/sys/time.h
+mix.lo: /usr/include/sys/signal.h
+mix.lo: /usr/include/sys/context.h
+mix.lo: /usr/include/sys/m_param.h
+mix.lo: /usr/include/sys/mstsave.h
+mix.lo: /usr/include/sys/m_signal.h
+mix.lo: /usr/include/sys/localedef.h
+mix.lo: /usr/include/sys/limits.h
+mix.lo: /usr/include/float.h
+mix.lo: /usr/include/sys/lc_core.h
+mix.lo: /usr/include/locale.h
+mix.lo: /usr/include/sys/localedef31.h
+mix.lo: /usr/include/stdio.h
+mix.lo: /usr/include/va_list.h
+mix.lo: ../../SDL_sound.h
+mix.lo: /opt/SDL/include/SDL/SDL.h
+mix.lo: /opt/SDL/include/SDL/SDL_main.h
+mix.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+mix.lo: /opt/SDL/include/SDL/SDL_config.h
+mix.lo: /opt/SDL/include/SDL/SDL_platform.h
+mix.lo: /usr/include/stddef.h
+mix.lo: /usr/include/stdarg.h
+mix.lo: /usr/include/string.h
+mix.lo: /usr/include/strings.h
+mix.lo: /usr/include/inttypes.h
+mix.lo: /usr/include/ctype.h
+mix.lo: /opt/SDL/include/SDL/begin_code.h
+mix.lo: /opt/SDL/include/SDL/close_code.h
+mix.lo: /opt/SDL/include/SDL/SDL_audio.h
+mix.lo: /opt/SDL/include/SDL/SDL_error.h
+mix.lo: /opt/SDL/include/SDL/SDL_endian.h
+mix.lo: /opt/SDL/include/SDL/SDL_mutex.h
+mix.lo: /opt/SDL/include/SDL/SDL_thread.h
+mix.lo: /opt/SDL/include/SDL/SDL_rwops.h
+mix.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+mix.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+mix.lo: /opt/SDL/include/SDL/SDL_events.h
+mix.lo: /opt/SDL/include/SDL/SDL_active.h
+mix.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+mix.lo: /opt/SDL/include/SDL/SDL_keysym.h
+mix.lo: /opt/SDL/include/SDL/SDL_mouse.h
+mix.lo: /opt/SDL/include/SDL/SDL_video.h
+mix.lo: /opt/SDL/include/SDL/SDL_joystick.h
+mix.lo: /opt/SDL/include/SDL/SDL_quit.h
+mix.lo: /opt/SDL/include/SDL/SDL_loadso.h
+mix.lo: /opt/SDL/include/SDL/SDL_timer.h
+mix.lo: /opt/SDL/include/SDL/SDL_version.h
+mix.lo: ../../SDL_sound_internal.h
+mix.lo: /usr/include/assert.h
+mix.lo: timidity.h
+mix.lo: options.h
+mix.lo: instrum.h
+mix.lo: playmidi.h
+mix.lo: output.h
+mix.lo: tables.h
+mix.lo: resample.h
+mix.lo: mix.h
+mix.c:
+../../config.h:
+/usr/include/math.h:
+/usr/include/standards.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/stdio.h:
+/usr/include/va_list.h:
+../../SDL_sound.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/string.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:
+../../SDL_sound_internal.h:
+/usr/include/assert.h:
+timidity.h:
+options.h:
+instrum.h:
+playmidi.h:
+output.h:
+tables.h:
+resample.h:
+mix.h:

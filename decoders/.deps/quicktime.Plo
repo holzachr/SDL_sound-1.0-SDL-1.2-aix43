@@ -1,0 +1,4 @@
+quicktime.lo: quicktime.c
+quicktime.lo: ../config.h
+quicktime.c:
+../config.h:

@@ -1,0 +1,4 @@
+speex.lo: speex.c
+speex.lo: ../config.h
+speex.c:
+../config.h:

@@ -1,0 +1,4 @@
+flac.lo: flac.c
+flac.lo: ../config.h
+flac.c:
+../config.h:

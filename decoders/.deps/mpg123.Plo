@@ -1,0 +1,4 @@
+mpg123.lo: mpg123.c
+mpg123.lo: ../config.h
+mpg123.c:
+../config.h:

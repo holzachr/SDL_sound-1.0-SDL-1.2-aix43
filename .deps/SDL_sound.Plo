@@ -1,0 +1,118 @@
+SDL_sound.lo: SDL_sound.c
+SDL_sound.lo: ./config.h
+SDL_sound.lo: /usr/include/stdio.h
+SDL_sound.lo: /usr/include/standards.h
+SDL_sound.lo: /usr/include/va_list.h
+SDL_sound.lo: /usr/include/sys/types.h
+SDL_sound.lo: /usr/include/sys/inttypes.h
+SDL_sound.lo: /usr/include/sys/m_types.h
+SDL_sound.lo: /usr/include/sys/vm_types.h
+SDL_sound.lo: /usr/include/sys/limits.h
+SDL_sound.lo: /usr/include/float.h
+SDL_sound.lo: /usr/include/stdlib.h
+SDL_sound.lo: /usr/include/sys/wait.h
+SDL_sound.lo: /usr/include/sys/resource.h
+SDL_sound.lo: /usr/include/sys/time.h
+SDL_sound.lo: /usr/include/sys/signal.h
+SDL_sound.lo: /usr/include/sys/context.h
+SDL_sound.lo: /usr/include/sys/m_param.h
+SDL_sound.lo: /usr/include/sys/mstsave.h
+SDL_sound.lo: /usr/include/sys/m_signal.h
+SDL_sound.lo: /usr/include/sys/localedef.h
+SDL_sound.lo: /usr/include/sys/lc_core.h
+SDL_sound.lo: /usr/include/locale.h
+SDL_sound.lo: /usr/include/sys/localedef31.h
+SDL_sound.lo: /usr/include/string.h
+SDL_sound.lo: /usr/include/ctype.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_main.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_stdinc.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_config.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_platform.h
+SDL_sound.lo: /usr/include/stddef.h
+SDL_sound.lo: /usr/include/stdarg.h
+SDL_sound.lo: /usr/include/strings.h
+SDL_sound.lo: /usr/include/inttypes.h
+SDL_sound.lo: /opt/SDL/include/SDL/begin_code.h
+SDL_sound.lo: /opt/SDL/include/SDL/close_code.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_audio.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_error.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_endian.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_mutex.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_thread.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_rwops.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_cdrom.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_cpuinfo.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_events.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_active.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_keyboard.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_keysym.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_mouse.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_video.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_joystick.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_quit.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_loadso.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_timer.h
+SDL_sound.lo: /opt/SDL/include/SDL/SDL_version.h
+SDL_sound.lo: SDL_sound.h
+SDL_sound.lo: SDL_sound_internal.h
+SDL_sound.lo: /usr/include/assert.h
+SDL_sound.c:
+./config.h:
+/usr/include/stdio.h:
+/usr/include/standards.h:
+/usr/include/va_list.h:
+/usr/include/sys/types.h:
+/usr/include/sys/inttypes.h:
+/usr/include/sys/m_types.h:
+/usr/include/sys/vm_types.h:
+/usr/include/sys/limits.h:
+/usr/include/float.h:
+/usr/include/stdlib.h:
+/usr/include/sys/wait.h:
+/usr/include/sys/resource.h:
+/usr/include/sys/time.h:
+/usr/include/sys/signal.h:
+/usr/include/sys/context.h:
+/usr/include/sys/m_param.h:
+/usr/include/sys/mstsave.h:
+/usr/include/sys/m_signal.h:
+/usr/include/sys/localedef.h:
+/usr/include/sys/lc_core.h:
+/usr/include/locale.h:
+/usr/include/sys/localedef31.h:
+/usr/include/string.h:
+/usr/include/ctype.h:
+/opt/SDL/include/SDL/SDL.h:
+/opt/SDL/include/SDL/SDL_main.h:
+/opt/SDL/include/SDL/SDL_stdinc.h:
+/opt/SDL/include/SDL/SDL_config.h:
+/opt/SDL/include/SDL/SDL_platform.h:
+/usr/include/stddef.h:
+/usr/include/stdarg.h:
+/usr/include/strings.h:
+/usr/include/inttypes.h:
+/opt/SDL/include/SDL/begin_code.h:
+/opt/SDL/include/SDL/close_code.h:
+/opt/SDL/include/SDL/SDL_audio.h:
+/opt/SDL/include/SDL/SDL_error.h:
+/opt/SDL/include/SDL/SDL_endian.h:
+/opt/SDL/include/SDL/SDL_mutex.h:
+/opt/SDL/include/SDL/SDL_thread.h:
+/opt/SDL/include/SDL/SDL_rwops.h:
+/opt/SDL/include/SDL/SDL_cdrom.h:
+/opt/SDL/include/SDL/SDL_cpuinfo.h:
+/opt/SDL/include/SDL/SDL_events.h:
+/opt/SDL/include/SDL/SDL_active.h:
+/opt/SDL/include/SDL/SDL_keyboard.h:
+/opt/SDL/include/SDL/SDL_keysym.h:
+/opt/SDL/include/SDL/SDL_mouse.h:
+/opt/SDL/include/SDL/SDL_video.h:
+/opt/SDL/include/SDL/SDL_joystick.h:
+/opt/SDL/include/SDL/SDL_quit.h:
+/opt/SDL/include/SDL/SDL_loadso.h:
+/opt/SDL/include/SDL/SDL_timer.h:
+/opt/SDL/include/SDL/SDL_version.h:
+SDL_sound.h:
+SDL_sound_internal.h:
+/usr/include/assert.h:
